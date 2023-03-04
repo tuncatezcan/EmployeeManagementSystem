@@ -1,0 +1,8 @@
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Tunca\source\repos\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
